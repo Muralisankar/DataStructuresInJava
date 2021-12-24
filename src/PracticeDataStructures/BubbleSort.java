@@ -35,9 +35,6 @@ public class BubbleSort {
 				}
 			System.out.println();
 			}
-		//for(int num=0;num<array.length;num++) {
-		//	System.out.println(array[num]);
-		//}
 	}
 		
 }
